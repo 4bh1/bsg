@@ -1,6 +1,6 @@
 # BSG #
 
-BSG(Bulk Shellcode Generator) is used to create multiple shellcodes using msfvenom 
+BSG(Bulk Shellcode Generator) is used to create multiple shellcodes using msfvenom. 
 
 ### Requirements ###
 
