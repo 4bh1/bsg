@@ -1,0 +1,4 @@
+mipsbe/byte_xori
+mipsbe/longxor
+mipsle/byte_xori
+mipsle/longxor
