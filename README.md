@@ -14,4 +14,4 @@ BSG(Bulk Shellcode Generator) is used to create multiple shellcodes using msfven
 * Iterations for encoders 
 * Platform & arch selection
 
-More info at [http://www.crazynoobz.net/2016/02/bulk-shellcode-generator.html](here)
+More info at [here](http://www.crazynoobz.net/2016/02/bulk-shellcode-generator.html)
