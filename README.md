@@ -14,4 +14,8 @@ BSG(Bulk Shellcode Generator) is used to create multiple shellcodes using msfven
 * Iterations for encoders 
 * Platform & arch selection
 
-More info at [here](http://www.crazynoobz.net/2016/02/bulk-shellcode-generator.html)
+### Note : ###
+Edit the pay file with your payloads form metasploit with their perfered options(like LHOST,LPORT,etc). Each payload to be specified on a different line.
+
+![](https://4.bp.blogspot.com/-QdrAy3Uxc54/VtL4ORJ4ZNI/AAAAAAAADuQ/9jymoerQrKc/s640/bsg.png)
+
